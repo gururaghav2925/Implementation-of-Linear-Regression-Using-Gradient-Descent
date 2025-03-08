@@ -15,9 +15,10 @@ To write a program to predict the profit of a city using the linear regression m
 3.Hypothesis & Cost Function: Define the hypothesis ℎ𝜃(𝑥)=𝜃0+𝜃1𝑥 and the cost function as Mean Squared Error (MSE).
 
 4.Gradient Descent: Update parameters iteratively:
+
 ​![{FBB9F743-D5D8-4FFF-987E-9A83059ECFD6}](https://github.com/user-attachments/assets/03f7cc6c-5692-49a8-8df0-c60692e614ec)
 
-5.Prediction: Use the optimized parameters to predict profits for given population values. **
+5.Prediction: Use the optimized parameters to predict profits for given population values. 
 
 ## Program:
 ```
